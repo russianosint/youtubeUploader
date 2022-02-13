@@ -1,7 +1,7 @@
-## youtubeUploader
+# youtubeUploader
 
 
-# Installation guide 
+## Installation guide 
 
 1. pip3 install virtualenv
 2. python3 -m virtualenv venv
