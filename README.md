@@ -1,5 +1,6 @@
 # youtubeUploader
 
+Simple telegram bot to upload video on YouTube.
 
 ## Installation guide 
 
